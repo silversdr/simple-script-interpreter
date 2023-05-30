@@ -122,3 +122,6 @@ ENDFUNC RETURN NULL
 ENDSCOPE
 ```
 以上代码定义了普通作用域 matrix下的sum函数 和 传引用作用域refer下的 swap函数。
+
+## TODO
+- GUI存在问题，需要先载入函数文件再载入脚本文件才能使用函数文件中的函数
